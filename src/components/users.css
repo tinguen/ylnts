@@ -1,0 +1,11 @@
+.months {
+  padding: 2rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  flex-grow: 1;
+}
+
+.month {
+  text-align: center;
+  padding: 2rem 2rem;
+}

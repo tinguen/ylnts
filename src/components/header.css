@@ -1,0 +1,22 @@
+.header__text {
+  font-size: 1.5rem;
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  line-height: 1.25;
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+  text-align: center;
+  border-style: solid;
+  border-color: #eaeaea;
+  border-bottom-width: 1px;
+  background: #fafafa;
+}
+
+@media (min-width: 768px) {
+  .header__text {
+    font-size: 2.25rem;
+    letter-spacing: -0.05em;
+    padding-left: 4rem;
+    text-align: left;
+  }
+  }
